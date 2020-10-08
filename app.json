@@ -1,0 +1,12 @@
+{
+  "name": "cadastro",
+  "displayName": "cadastro",
+  "expo": {
+    "name": "cadastro",
+    "slug": "cadastro",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
