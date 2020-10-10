@@ -1,0 +1,28 @@
+{
+    "DATA" : [
+    {
+        "id": 1, 
+        "name": "John", 
+        "email": "JOHN@gmail.com", 
+        "avataUrl": "https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg"
+    },
+    {
+        "id": 2, 
+        "name": "Davi", 
+        "email": "DAVI@gmail.com",
+        "avataUrl": "https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg"
+    },
+    {
+        "id": 3, 
+        "name": "Paulo", 
+        "email": "PAULO@gmail.com", 
+        "avataUrl": "https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg"
+    },
+    {
+        "id": 4, 
+        "name": "Pedro", 
+        "email": "PEDRO@gmail.com", 
+        "avataUrl": "https://secure.img1-fg.wfcdn.com/im/33179025/compr-r85/1664/1664004/mickey-mouse-life-size-cardboard-stand-up.jpg"
+    }
+  ]
+}
